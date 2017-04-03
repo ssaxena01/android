@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoorDash Favorites</string>
+    <string name="discover_label">Discover</string>
+    <string name="favorites_label">Favorites</string>
+    <string name="openDrawer">Navigation View Open</string>
+    <string name="closeDrawer">Navigation View closed</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="add_to_favorite">Add to Favorites</string>
+    <string name="remove_favorite">Remove from Favorites</string>
+</resources>
